@@ -3,7 +3,7 @@ This repository contains the data workflows and bioinformatics analysis performe
 # PaLCuV Genomics — MPhil Research
 Project Overview
 Brief paragraph: what PaLCuV is, why it matters (crop losses, 
-Pakistan agriculture), and what your study aimed to do.
+Pakistan agriculture), and what my study aimed to do.
 Objectives
 - Molecular detection of PaLCuV using PCR targeting the CP gene
 - Sequence-based identification and comparison with global isolates
